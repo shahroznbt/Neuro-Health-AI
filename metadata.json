@@ -1,0 +1,8 @@
+
+{
+  "name": "NeuroHealth AI",
+  "description": "A comprehensive neurological health monitoring platform powered by Gemini AI, featuring real-time symptom tracking, MRI analysis, and personalized patient care.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
